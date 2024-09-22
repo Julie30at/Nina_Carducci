@@ -3,7 +3,9 @@ Balises html à revoir // sémentique SEO
 Largest Contentful Paint (LCP) : taille de transfert des
 images trop importante
 
-Format des images : préférer un format "nouvelle génération"
+Format des images : préférer un format webp
+
+renommer les images et ajouter un alt précis
 
 Dimension des images : images responsives à privilégier (définir largeur et hauteur)
 

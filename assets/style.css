@@ -69,7 +69,6 @@ body {
 
 .picture img {
 	width: 100%;
-
 }
 #about-me {
 	flex: 2
@@ -91,8 +90,13 @@ body {
 }
 
 #gallery {
-	/*	min-height: 100vh; */
+		min-height: 100vh; 
 }
+
+#about, #services, #contact {
+    min-height: 500px; 
+}
+
 .title{
 	text-align: center;
 	padding-block: 2em;
@@ -102,7 +106,7 @@ body {
 }
 .nav-pills .nav-link.active, .nav-pills .show > .nav-link {
 	color: #fff;
-	background-color: #BEB45A;
+	background-color: #837604;
 	border-radius:0 ;
 }
 .nav-pills .nav-link {
@@ -126,6 +130,7 @@ body {
 	object-fit: cover;
 	padding: .5em;
 }
+
 .mg-prev, .mg-next {
 	width: 30px;
 	height: 30px;

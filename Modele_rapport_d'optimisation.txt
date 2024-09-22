@@ -1,77 +1,61 @@
-Rapport d’optimisation
+Rapport d'optimisation
 
-NOM_DU_CLIENT
-
-
-I - Comparatif avant et après optimisation	2
-II - Détails des optimisations effectuées	2
-1 - Les images	2
-2 - …	2
-III - Accessibilité du site	2
-IV - Détails de réalisation additionnelles à la demande du client	2
-1 - …	2
-Annexe	3
-Rapport complet de l’audit Lighthouse	3
+NOM_DU_CLIENT : Nina Carducci - photographe professionnelle
 
 
+I - Comparatif avant et aprÃ¨s optimisation	
 
+II - DÃ©tails des optimisations effectuÃ©es
 
+1 - Les images	
+2 - ...	
 
+III - AccessibilitÃ© du site	
 
+IV - DÃ©tails de rÃ©alisation additionnelles Ã  la demande du client	
+1 - ...	
 
+Annexe	
+Rapport complet de l'audit Lighthouse	
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-I - Comparatif avant et après optimisation
+I - Comparatif avant et aprÃ¨s optimisation
 
 Score Lighthouse avant optimisation : 
 
-[Insérer ici une capture des scores Lighthouse avant optimisation]
+[InsÃ©rer ici une capture des scores Lighthouse avant optimisation]
 
-Score Lighthouse après optimisation :
+Score Lighthouse aprÃ¨s optimisation :
 
-[Insérer ici une capture des scores Lighthouse après optimisation]
+[InsÃ©rer ici une capture des scores Lighthouse aprÃ¨s optimisation]
 
 
 
-II - Détails des optimisations effectuées
+II - DÃ©tails des optimisations effectuÃ©es
 1 - Les images
-Le projet comporte originalement XX images pour un poids total de XXMB. Nous avons effectué les modifications suivantes aux images :
-…
-…
-…
-Après les modifications, le poids total des images est de XXMB soit un gain de XX%.
+Le projet comporte originalement XX images pour un poids total de XXMB. Nous avons effectuï¿½ les modifications suivantes aux images :
+ï¿½ ...
+ï¿½ ...
+ï¿½ ...
+aprÃ¨s les modifications, le poids total des images est de XXMB soit un gain de XX%.
 
-2 - …
-III - Accessibilité du site
-[Insérer une capture de la page du site avec l’extension Wave]
+2 - ...
 
-[Lister les modifications faites pour valider l’accessibilité]
-IV - Détails de réalisation additionnelles à la demande du client
-1 - …
+III - AccessibilitÃ© du site
+
+[InsÃ©rer une capture de la page du site avec l'extension Wave]
+
+[Lister les modifications faites pour valider l'accessibilitÃ©]
+
+IV - DÃ©tails de rÃ©alisation additionnelles Ã  la demande du client
+
+1 - ...
 
 
 Annexe
-Rapport complet de l’audit Lighthouse
+Rapport complet de l'audit Lighthouse
 
 
 
