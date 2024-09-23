@@ -34,14 +34,21 @@ Score Lighthouse après optimisation :
 
 
 II - Détails des optimisations effectuées
-1 - Les images
-Le projet comporte originalement XX images pour un poids total de XXMB. Nous avons effectu� les modifications suivantes aux images :
-� ...
-� ...
-� ...
-après les modifications, le poids total des images est de XXMB soit un gain de XX%.
 
-2 - ...
+1 - Les images
+
+Le projet comporte originalement 13 images pour un poids total de 30.157 MB. Nous avons effectué les modifications suivantes aux images :
+
+� Modification du format jpg des photos au format webp via GIMP,
+� Redimensionnement des photos trop grandes via GIMP.
+
+après les modifications, le poids total des images est de 2.4 MB soit un gain de 92 %.
+
+2 - sémentique
+
+� Images renomées,
+� Déscription alternative pour les images ajouter via les balises "alt",
+
 
 III - Accessibilité du site
 
