@@ -32,22 +32,40 @@ Score Lighthouse après optimisation :
 [Insérer ici une capture des scores Lighthouse après optimisation]
 
 
-
 II - Détails des optimisations effectuées
 
-1 - Les images
+1 - Les images :
 
-Le projet comporte originalement 13 images pour un poids total de 30.157 MB. Nous avons effectué les modifications suivantes aux images :
+Le projet comporte originalement 15 images pour un poids total de 30.157 MB. Nous avons effectué les modifications suivantes aux images :
 
-� Modification du format jpg des photos au format webp via GIMP,
-� Redimensionnement des photos trop grandes via GIMP.
+- Modification du format jpg au format webp via GIMP,
+- Redimensionnement via GIMP,
+- Utilisation de loading="lazy" pour afficher les images seulement au moment voulu.
 
 après les modifications, le poids total des images est de 2.4 MB soit un gain de 92 %.
 
-2 - sémentique
+2 - sémentique SEO :
 
-� Images renomées,
-� Déscription alternative pour les images ajouter via les balises "alt",
+- Images renomées,
+- Déscription alternative précise pour les images via des balises "alt",
+- organisation du <body> retravaillé :
+              h1 unique,
+              h2, h3, h4 en fonctio,,
+              <header>, <nav>, <main>, <section> et <footer>,
+              <lalel for="..."> ajouter pour la gestion du formulaitre,
+              balises pour la citation optimisées.
+- html lang="fr".
+
+3 - <head> optimisé ;
+
+- Ajout de title et meta description,
+- script en defer,
+- Ajout des Open Graph Meta, Twitter Card Meta et balise robots pour l'indexation,
+
+4 - minification des fichiers :
+
+- utilisation des fichiers bootstarap.min des script et css.
+
 
 
 III - Accessibilité du site
