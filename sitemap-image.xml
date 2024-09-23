@@ -4,76 +4,76 @@
   
   <!-- Page d'accueil -->
   <url>
-    <loc>https://votre-site.com</loc>
+    <loc>https://julie30at.github.io/Nina_Carducci/</loc>
     <image:image>
-      <image:loc>https://votre-site.com/assets/images/nina.webp</image:loc>
+      <image:loc>https://julie30at.github.io/Nina_Carducci/assets/images/nina.webp</image:loc>
       <image:caption>Portrait de Nina Carducci, photographe professionnelle</image:caption>
     </image:image>
   </url>
   
   <!-- Carrousel -->
   <url>
-    <loc>https://votre-site.com#header</loc>
+    <loc>https://julie30at.github.io/Nina_Carducci/#header</loc>
     <image:image>
-      <image:loc>https://votre-site.com/assets/images/slider/corporate_photo.webp</image:loc>
+      <image:loc>https://julie30at.github.io/Nina_Carducci/assets/images/slider/corporate_photo.webp</image:loc>
       <image:caption>Photo d'entreprise par Nina Carducci</image:caption>
     </image:image>
     <image:image>
-      <image:loc>https://votre-site.com/assets/images/slider/concert_photo.webp</image:loc>
+      <image:loc>https://julie30at.github.io/Nina_Carducci/assets/images/slider/concert_photo.webp</image:loc>
       <image:caption>Photo de concert capturée par Nina Carducci</image:caption>
     </image:image>
     <image:image>
-      <image:loc>https://votre-site.com/assets/images/slider/wedding_photo.webp</image:loc>
+      <image:loc>https://julie30at.github.io/Nina_Carducci/assets/images/slider/wedding_photo.webp</image:loc>
       <image:caption>Photo de mariage prise par Nina Carducci</image:caption>
     </image:image>
   </url>
   
   <!-- Galerie -->
   <url>
-    <loc>https://votre-site.com#gallery</loc>
+    <loc>https://julie30at.github.io/Nina_Carducci/#gallery</loc>
     <image:image>
-      <image:loc>https://votre-site.com/assets/images/gallery/concerts/concert-aaron-paul..webp</image:loc>
+      <image:loc>https://julie30at.github.io/Nina_Carducci/assets/images/gallery/concerts/concert-aaron-paul..webp</image:loc>
       <image:caption>Concert d'Aaron Paul capturé par Nina Carducci</image:caption>
     </image:image>
     <image:image>
-      <image:loc>https://votre-site.com/assets/images/gallery/entreprise/corporate-ali-morshedlou..webp</image:loc>
+      <image:loc>https://julie30at.github.io/Nina_Carducci/assets/images/gallery/entreprise/corporate-ali-morshedlou..webp</image:loc>
       <image:caption>Portrait d'entreprise de Ali Morshedlou capturé par Nina Carducci</image:caption>
     </image:image>
     <image:image>
-      <image:loc>https://votre-site.com/assets/images/gallery/entreprise/corporate-jason-goodman..webp</image:loc>
+      <image:loc>https://julie30at.github.io/Nina_Carducci/assets/images/gallery/entreprise/corporate-jason-goodman..webp</image:loc>
       <image:caption>Portrait d'entreprise de Jason Goodman capturé par Nina Carducci</image:caption>
     </image:image>
     <image:image>
-      <image:loc>https://votre-site.com/assets/images/gallery/mariage/wedding-hannah-busing..webp</image:loc>
+      <image:loc>https://julie30at.github.io/Nina_Carducci/assets/images/gallery/mariage/wedding-hannah-busing..webp</image:loc>
       <image:caption>Mariage de Hannah Busing photographié par Nina Carducci</image:caption>
     </image:image>
     <image:image>
-      <image:loc>https://votre-site.com/assets/images/gallery/portraits/portrait-ade-tunji..webp</image:loc>
+      <image:loc>https://julie30at.github.io/Nina_Carducci/assets/images/gallery/portraits/portrait-ade-tunji..webp</image:loc>
       <image:caption>Portrait d'Ade Tunji capturé par Nina Carducci</image:caption>
     </image:image>
     <image:image>
-      <image:loc>https://votre-site.com/assets/images/gallery/mariage/wedding-jakob-owens..webp</image:loc>
+      <image:loc>https://julie30at.github.io/Nina_Carducci/assets/images/gallery/mariage/wedding-jakob-owens..webp</image:loc>
       <image:caption>Mariage de Jakob Owens photographié par Nina Carducci</image:caption>
     </image:image>
     <image:image>
-      <image:loc>https://votre-site.com/assets/images/gallery/portraits/portrait-nino-van-prattenburg..webp</image:loc>
+      <image:loc>https://julie30at.github.io/Nina_Carducci/assets/images/gallery/portraits/portrait-nino-van-prattenburg..webp</image:loc>
       <image:caption>Portrait de Nino Van Prattenburg capturé par Nina Carducci</image:caption>
     </image:image>
     <image:image>
-      <image:loc>https://votre-site.com/assets/images/gallery/concerts/concert-austin-neill..webp</image:loc>
+      <image:loc>https://julie30at.github.io/Nina_Carducci/assets/images/gallery/concerts/concert-austin-neill..webp</image:loc>
       <image:caption>Concert d'Austin Neill capturé par Nina Carducci</image:caption>
     </image:image>
     <image:image>
-      <image:loc>https://votre-site.com/assets/images/gallery/entreprise/corporate-mateus-campos-felipe..webp</image:loc>
+      <image:loc>https://julie30at.github.io/Nina_Carducci/assets/images/gallery/entreprise/corporate-mateus-campos-felipe..webp</image:loc>
       <image:caption>Portrait d'entreprise de Mateus Campos Felipe capturé par Nina Carducci</image:caption>
     </image:image>
   </url>
   
   <!-- Contact -->
   <url>
-    <loc>https://votre-site.com#contact</loc>
+    <loc>https://julie30at.github.io/Nina_Carducci/#contact</loc>
     <image:image>
-      <image:loc>https://votre-site.com/assets/images/camera.webp</image:loc>
+      <image:loc>https://julie30at.github.io/Nina_Carducci/assets/images/camera.webp</image:loc>
       <image:caption>Appareil photo de Nina Carducci</image:caption>
     </image:image>
   </url>

@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://votre-site.com/sitemap-image.xml
+Sitemap: https://julie30at.github.io/Nina_Carducci/sitemap-image.xml
