@@ -71,8 +71,10 @@ III - Accessibilité du site
 
 IV - Détails de réalisation additionnelles à la demande du client
 
-1 -  référencement locale avec schema.org réalisé
+1 -  référencement locale avec schema.org réalisé.
 2- Résultats rich snippet google : https://search.google.com/test/rich-results/result?id=nF9jYxELGMBZFUbiXn44VA
+3 - correction des erreurs dans bootstrap.css.
+4 - optimisation mobile : ajout de width et height responsive.
 
 
 Annexe

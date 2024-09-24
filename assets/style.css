@@ -340,6 +340,14 @@ input[type="submit"] {
 		padding-block: 1em;
 		text-align: center;
 	}
+	.carousel-mobile{
+     max-width: 650px;
+	 max-height: 303px;
+    }
+	.about-me-picture{
+		max-width: 469px;
+		max-height: 467px;
+	}	
 	.picture.left::before, .picture.right::before {
 		height: 150px;
 	}
