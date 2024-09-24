@@ -41,12 +41,23 @@ Le projet comporte originalement 15 images pour un poids total de 30.157 MB. Nou
 - Modification du format jpg au format webp via GIMP,
 - Redimensionnement via GIMP,
 - Utilisation de loading="lazy" pour afficher les images seulement au moment voulu.
+-Images renomées.
 
-après les modifications, le poids total des images est de 2.4 MB soit un gain de 92 %.
+Après les modifications, le poids total des images est de 2.4 MB soit un gain de 92 %.
 
-2 - sémentique SEO :
+2 - <head> optimisé ;
 
-- Images renomées,
+- Ajout de title et meta description,
+- script en defer,
+- Ajout des Open Graph Meta, Twitter Card Meta et balise robots pour l'indexation.
+
+3 - minification des fichiers : utilisation des fichiers bootstarap.min des script et css.
+
+4 - Création d'un sitemap-images et robots.txt pour une meilleure indexation.
+
+III - Accessibilité du site
+
+[Insérer une capture de la page du site avec l'extension Wave]
 - Déscription alternative précise pour les images via des balises "alt",
 - organisation du <body> retravaillé :
               h1 unique,
@@ -54,29 +65,14 @@ après les modifications, le poids total des images est de 2.4 MB soit un gain d
               <header>, <nav>, <main>, <section> et <footer>,
               <lalel for="..."> ajouter pour la gestion du formulaitre,
               balises pour la citation optimisées.
-- html lang="fr".
-
-3 - <head> optimisé ;
-
-- Ajout de title et meta description,
-- script en defer,
-- Ajout des Open Graph Meta, Twitter Card Meta et balise robots pour l'indexation,
-
-4 - minification des fichiers :
-
-- utilisation des fichiers bootstarap.min des script et css.
-
-
-
-III - Accessibilité du site
-
-[Insérer une capture de la page du site avec l'extension Wave]
-
-[Lister les modifications faites pour valider l'accessibilité]
+- html lang="fr",
+- ajustement des couleurs pour éviter les erreur de contrast,
+- aria-label ajoutés.
 
 IV - Détails de réalisation additionnelles à la demande du client
 
-1 - ...
+1 -  référencement locale avec schema.org réalisé
+2- Résultats rich snippet google : https://search.google.com/test/rich-results/result?id=nF9jYxELGMBZFUbiXn44VA
 
 
 Annexe
