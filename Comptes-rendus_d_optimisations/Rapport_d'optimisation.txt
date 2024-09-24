@@ -1,77 +1,98 @@
 Rapport d'optimisation
 
-NOM_DU_CLIENT : Nina Carducci - photographe professionnelle
+Site web de Nina Carducci - photographe professionnelle
 
+************************************************************************
 
 I - Comparatif avant et après optimisation	
 
+    1 - Lighthouse
+    2 - Wave
+
 II - Détails des optimisations effectuées
 
-1 - Les images	
-2 - ...	
+    1 - Les images	
+    2 - <head>
+    3 - Minification des fichiers
+    4 -	Indexation
 
 III - Accessibilité du site	
 
-IV - Détails de réalisation additionnelles à la demande du client	
-1 - ...	
+IV - Détails de réalisation additionnelles à la demande du client
 
-Annexe	
-Rapport complet de l'audit Lighthouse	
+V - Quelques idées pour la suite
 
+Annexes	
+Rapport complet des audits Lighthouse, et rapports Wave. 	
 
-
+***************************************************************************
 
 I - Comparatif avant et après optimisation
 
-Score Lighthouse avant optimisation : 
+           1 - Lighthouse
+
+  Score Lighthouse avant optimisation : 
 
 Performances : 76% -- version mobile : 67%
-
 Accessibilité : 70%
-
 Bonnes pratiques : 100%
-
 SEO : 73 %
 
-Score Lighthouse après optimisation :
+  Score Lighthouse après optimisation :
 
 Performances : 100% -- version mobile : 90%
-
 Accessibilité : 100%
-
 Bonnes pratiques : 100%
-
 SEO : 100%
 
-** Rapports détaillés dans le dossier au format pdf **
+** Rapports détaillés dans le dossier "audits_Lighthouse" **
+
+            2 - Wave
+
+  Rapport Wave avant optimisation :
+
+17 erreurs,
+7 alertes,
+3 problèmes de contraste.
+
+  Rapport Wave après optimisation : 
+
+plus d'erreurs, d'alertes ni de problèmes de contraste.
+
+** Rapports détaillés dans le dossier "rapports_Wave" **
 
 
 II - Détails des optimisations effectuées
 
-1 - Les images :
+            1 - Les images 
 
-Le projet comporte originalement 15 images pour un poids total de 30.157 MB. Nous avons effectué les modifications suivantes aux images :
+Le projet comporte originalement 15 images pour un poids total de 30.158 MB. Nous avons effectué les modifications suivantes aux images :
 
 - Modification du format jpg au format webp via GIMP,
 - Redimensionnement via GIMP,
 - Utilisation de loading="lazy" pour afficher les images seulement au moment voulu.
--Images renomées.
+- Images renomées.
 
-Après les modifications, le poids total des images est de 2.4 MB soit un gain de 92 %.
+Après les modifications, le poids total des images est de 2.188 MB soit un gain d'environ 93 %.
 
-2 - <head> optimisé ;
+            2 - <head> 
 
 - Ajout de title et meta description,
 - script en defer, font en preload,
 - Ajout des Open Graph Meta, Twitter Card Meta et balise robots pour l'indexation.
 
-3 - minification des fichiers : utilisation des fichiers bootstarap.min des script et css.
+            3 - minification des fichiers 
+            
+- Utilisation des fichiers bootstarap.min des script et css.
 
-4 - Création d'un sitemap-images et robots.txt pour une meilleure indexation.
+            4 - Indexation 
+
+- Création des sitemap-images.xml, robots.txt et google....html.
+
 
 III - Accessibilité du site
 
-[Insérer une capture de la page du site avec l'extension Wave]
+** Captures d'écran des rapports Wave dans le dossier **
 
 - Déscription alternative précise pour les images via des balises "alt",
 - organisation du <body> retravaillé :
@@ -84,17 +105,26 @@ III - Accessibilité du site
 - ajustement des couleurs pour éviter les erreur de contrast,
 - aria-label ajoutés.
 
+
 IV - Détails de réalisation additionnelles à la demande du client
 
 1 - Référencement locale avec schema.org réalisé.
 2 - Résultats sans erreur de rich snippet google : https://search.google.com/test/rich-results/result?id=nF9jYxELGMBZFUbiXn44VA
 3 - correction des erreurs dans bootstrap.css.
 4 - optimisation mobile : ajout de width et height responsive.
-5 - Penser ajouter une adresse e-mail de contact pour le formulaitre (action="mailto:contact@votre-site.com" method="post")
 
 
-Annexe
-Rapport complet de l'audit Lighthouse
+V - Quelques idées pour la suite :
+
+Ajouter une adresse e-mail de contact pour le formulaitre (action="mailto:contact@votre-site.com" method="post"),
+Optimiser l'utilisation des mots-clés inhérants à l'activité dans la rédaction des textes,
+Rédiger des articles, participer aux forums, alimenter un blog dans cette thématique ( penser aux mots de longue traine ),
+Envisager des partenariats pour obtenir des BackLink ( faire parler de soi sur des sites de qualité ),
+S'incrire sur d'autres réseaux sociaux ( Tiktok, pinterest...)....
+
+
+
+
 
 
 
