@@ -25,11 +25,25 @@ I - Comparatif avant et après optimisation
 
 Score Lighthouse avant optimisation : 
 
-[Insérer ici une capture des scores Lighthouse avant optimisation]
+Performances : 76% -- version mobile : 67%
+
+Accessibilité : 70%
+
+Bonnes pratiques : 100%
+
+SEO : 73 %
 
 Score Lighthouse après optimisation :
 
-[Insérer ici une capture des scores Lighthouse après optimisation]
+Performances : 100% -- version mobile : 90%
+
+Accessibilité : 100%
+
+Bonnes pratiques : 100%
+
+SEO : 100%
+
+** Rapports détaillés dans le dossier au format pdf **
 
 
 II - Détails des optimisations effectuées
@@ -48,7 +62,7 @@ Après les modifications, le poids total des images est de 2.4 MB soit un gain d
 2 - <head> optimisé ;
 
 - Ajout de title et meta description,
-- script en defer,
+- script en defer, font en preload,
 - Ajout des Open Graph Meta, Twitter Card Meta et balise robots pour l'indexation.
 
 3 - minification des fichiers : utilisation des fichiers bootstarap.min des script et css.
@@ -58,6 +72,7 @@ Après les modifications, le poids total des images est de 2.4 MB soit un gain d
 III - Accessibilité du site
 
 [Insérer une capture de la page du site avec l'extension Wave]
+
 - Déscription alternative précise pour les images via des balises "alt",
 - organisation du <body> retravaillé :
               h1 unique,
@@ -71,10 +86,11 @@ III - Accessibilité du site
 
 IV - Détails de réalisation additionnelles à la demande du client
 
-1 -  référencement locale avec schema.org réalisé.
-2- Résultats rich snippet google : https://search.google.com/test/rich-results/result?id=nF9jYxELGMBZFUbiXn44VA
+1 - Référencement locale avec schema.org réalisé.
+2 - Résultats sans erreur de rich snippet google : https://search.google.com/test/rich-results/result?id=nF9jYxELGMBZFUbiXn44VA
 3 - correction des erreurs dans bootstrap.css.
 4 - optimisation mobile : ajout de width et height responsive.
+5 - Penser ajouter une adresse e-mail de contact pour le formulaitre (action="mailto:contact@votre-site.com" method="post")
 
 
 Annexe
